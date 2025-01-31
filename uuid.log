@@ -1,5 +1,6 @@
 09b47811-aead-42d8-aded-9d3899f8e470 bess@toolbx:/var/mnt/bess2_rowdy_hawking_replica/bess2 timestamp=1733330602.511387986s
 20fc0dd7-2c2a-4af8-88c6-445456a2f5ed bess@toolbx:/var/mnt/bess2_optimistic_newton_replica/bess2 timestamp=1733410416.780203205s
+228b8f4f-262a-4e78-9d31-249ce4695f9c bess@toolbx:/var/mnt/bess2_nifty_maxwell_replica/bess2 timestamp=1737562611.876693131s
 2d3305bb-5eaf-486b-bda2-e214180d610f bess@toolbx:/var/mnt/bess2_nice_sutherland_main/bess2 timestamp=1733482344.817917247s
 3218b0cd-46a9-4301-bb8e-fda4f696443b bess@toolbx:/var/mnt/bess2_nice_sutherland_replica/bess2 timestamp=1733482360.399496779s
 34001c5d-3a1b-476a-afec-7324881f7377 bess@toolbx:/var/mnt/bess2_greedy_turing_replica/bess2 timestamp=1733483131.003841219s
@@ -17,4 +18,5 @@ aef95c70-a464-4920-bfb2-1335bccf6ae9 bess@toolbx:/var/mnt/bess2_casual_hinton_re
 c7dd88a7-3ce5-4b4b-af9c-d88cdfec39ee bess@toolbx:/var/mnt/bess2_recursing_dirac_main/bess2 timestamp=1733482252.499036869s
 d5bcac17-e923-435f-ae29-ee1bea347f48 bess@toolbx:~/recording timestamp=1733330539.551170241s
 dc2e27b9-267b-413e-b8f9-e30699021594 bess@toolbx:/var/mnt/bess2_casual_hinton_main/bess2 timestamp=1733483151.451253384s
+e2242989-7d5a-4f18-98c4-745df4e21a3d bess@toolbx:/var/mnt/bess2_nifty_maxwell_main/bess2 timestamp=1737562601.432086665s
 f3529bed-9bf2-49fa-97ec-20f87b772535 bess@toolbx:/var/mnt/bess2_recursing_dirac_replica/bess2 timestamp=1733482267.966337712s
